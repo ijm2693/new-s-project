@@ -1,0 +1,7 @@
+feedparser
+newspaper3k
+beautifulsoup4
+requests
+openai
+python-dotenv
+tqdm
